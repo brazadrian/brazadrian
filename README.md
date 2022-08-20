@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 <div align='center'>
 
 <h2>Olá, me chamo Gilmar Adrian! 👋</h2>
@@ -8,14 +10,20 @@
 <p>👨🏿‍🎓 Técnico em Desenvolvimento de Sistemas - ETE Porto Digital</p>
 </div>
 
-<h2>Tecnologias</h2>
+<h2>Ferramentas e tecnologias</h2>
 
 <div style="display: inline_block"><br>
-  <img alt="Logo Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img alt="Logo Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img alt="Logo Linguagem C" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png"/>
-  <img alt="Logo React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img alt="Logo Figma" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
-  <img alt="Logo MySQL" height="30" width="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" />
+  <img alt="Logo Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img alt="Logo MySQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img alt="Logo React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="Logo BootStrap" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+  <img alt="Logo HTML" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="Logo CSS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="Logo JavaScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
+  
+  
 </div>
 
 <h2>Estatísticas</h2>
