@@ -8,6 +8,16 @@
 <p>👨🏿‍🎓 Técnico em Desenvolvimento de Sistemas - ETE Porto Digital</p>
 </div>
 
+<h2>Tecnologias</h2>
+
+<div style="display: inline_block"><br>
+  <img alt="Logo Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img alt="Logo Linguagem C" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png"/>
+  <img alt="Logo React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img alt="Logo Figma" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
+  <img alt="Logo MySQL" height="30" width="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" />
+</div>
+
 <h2>Estatísticas</h2>
 
 <table>
