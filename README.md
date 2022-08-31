@@ -15,6 +15,8 @@
 <h2>Ferramentas e tecnologias</h2>
 
 <div style="display: inline_block"><br>
+
+  <img alt="Certificação SCRUM emitido pela CertiProf" height="40" width="40" src="https://cdn.shopify.com/s/files/1/0299/9215/7283/files/Scrum-Foundation-Professional-Certificate-SFPC_-2021_1_480x480.png?v=1631898363"/>
   <img alt="Logo Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img alt="Logo Linguagem C" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png"/>
   <img alt="Logo Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
