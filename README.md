@@ -9,6 +9,7 @@
 <div align='left'>
 <p> ⚖️ Auxiliar Administrativo - Promotoria do Idoso - MPPE</p>
 <p>👨🏿‍💻 Estudante de Análise e Desenvolvimento de Sistemas - Faculdade SENAC PE</p>
+<p>🎒 Bolsista pelo Embarque Digital</p>
 <p>👨🏿‍🎓 Técnico em Desenvolvimento de Sistemas - ETE Porto Digital</p>
 <p> <a href="https://www.credly.com/badges/1b31a8af-96d8-48e7-9a2b-a789b61e0def" target="_blank">📄 Scrum Foundation Professional Certificate - SFPC™</a> </p>
 </div>
