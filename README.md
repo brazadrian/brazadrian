@@ -2,16 +2,16 @@
 
 <div align='center'>
 
-<h2> Adrian de Souza! 👋</h2>
+<h2>Adrian de Souza! 👋</h2>
   
 <img align="right" width="250px" style="margin-top:-20px" src="./imagens/octocat-brazadrian.png">
 
 <div align='left'>
-<p> ⚖️ Auxiliar Administrativo - Promotoria do Idoso - MPPE</p>
-<p>👨🏿‍💻 Estudante de Análise e Desenvolvimento de Sistemas - Faculdade SENAC PE</p>
+<p> ⚖️ <b>Auxiliar Administrativo - Promotoria do Idoso - MPPE </b> </p>
+<p>👨🏿‍💻 <b>Estudante de Análise e Desenvolvimento de Sistemas - Faculdade SENAC PE </b> </p>
 <p>🎒 Bolsista pelo Embarque Digital</p>
-<p>👨🏿‍🎓 Técnico em Desenvolvimento de Sistemas - ETE Porto Digital</p>
-<p> <a href="https://www.credly.com/badges/1b31a8af-96d8-48e7-9a2b-a789b61e0def" target="_blank">📄 Scrum Foundation Professional Certificate - SFPC™</a> </p>
+<p>👨🏿‍🎓 <b>Técnico em Desenvolvimento de Sistemas - ETE Porto Digital </b> </p>
+<p> <a href="https://www.credly.com/badges/1b31a8af-96d8-48e7-9a2b-a789b61e0def" target="_blank">📄 <b>Scrum Foundation Professional Certificate - SFPC™</b></a> </p>
 </div>
 
 <h2>Ferramentas e tecnologias</h2>
