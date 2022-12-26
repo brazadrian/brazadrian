@@ -34,6 +34,7 @@
 
 <h2>Estatísticas</h2>
 
+<!-- BACKUP DAS ESTATÍSTICAS
 <table>
   <tr>
     <td height='200px' align='center'><img height='200px' src="https://github-readme-stats.vercel.app/api?username=brazadrian&hide_border=true&show_icons=true&count_private=true&theme=midnight-purple"></td>
@@ -42,6 +43,13 @@
   <tr>
     <td height='200px' align='center'><img height='200px' src="https://github-readme-streak-stats.herokuapp.com/?user=brazadrian&hide_border=true&layout=compact&theme=midnight-purple"></td>
     <td height='200px' align='center'><img height='200px' src="https://activity-graph.herokuapp.com/graph?username=brazadrian&hide_border=true&layout=compact&theme=redical"></td>
+  </tr>
+</table>
+-->
+<table>
+  <tr>
+    <td height='200px' align='center'><img height='200px' src="https://github-readme-stats.vercel.app/api?username=brazadrian&hide_border=true&show_icons=true&count_private=true&theme=midnight-purple"></td>
+    <td height='200px' align='center'><img height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=brazadrian&hide_border=true&layout=compact&theme=midnight-purple"></td>
   </tr>
 </table>
 
