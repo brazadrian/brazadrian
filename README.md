@@ -18,12 +18,12 @@
 <h2>Ferramentas e tecnologias</h2>
 
 <div style="display: inline_block"><br>
-
+<a href="https://www.credly.com/badges/1b31a8af-96d8-48e7-9a2b-a789b61e0def">
 <img alt="Certificação SCRUM emitido pela CertiProf" 
   height="40" 
   width="40" 
-  src="/imagens/logos/sfpc-scrum.webp"
-  href="https://www.credly.com/badges/1b31a8af-96d8-48e7-9a2b-a789b61e0def"/>
+  src="/imagens/logos/sfpc-scrum.webp"/>
+<a>
 <img alt="Logo ServiceNow" 
   height="40" 
   width="40" 
