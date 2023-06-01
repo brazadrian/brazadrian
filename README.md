@@ -5,6 +5,7 @@
 <h2>Adrian de Souza! 👋</h2>
   
 <img align="right" width="250px" style="margin-top:-20px" src="./imagens/octocat-brazadrian.png">
+</div>
 
 <div align='left'>
 <p>👤 <b>Estagiário em ServiceNow na Extreme Digital Solutions </b> </p>
@@ -18,20 +19,67 @@
 
 <div style="display: inline_block"><br>
 
-  <img alt="Certificação SCRUM emitido pela CertiProf" height="40" width="40" src="https://cdn.shopify.com/s/files/1/0299/9215/7283/files/Scrum-Foundation-Professional-Certificate-SFPC_-2021_1_480x480.png?v=1631898363"/>
-  <img alt="Logo ServiceNow" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/servicenow_logo_icon_168835.png" />
-  <img alt="Logo Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img alt="Logo Linguagem C" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png"/>
-  <img alt="Logo Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img alt="Logo MySQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img alt="Logo PostGreSQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-  <img alt="Logo React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="Logo BootStrap" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-  <img alt="Logo HTML" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alt="Logo CSS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img alt="Logo JavaScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-  
-  
+<img alt="Certificação SCRUM emitido pela CertiProf" 
+  height="40" 
+  width="40" 
+  src="/imagens/logos/sfpc-scrum.webp"
+  href="https://www.credly.com/badges/1b31a8af-96d8-48e7-9a2b-a789b61e0def"/>
+<img alt="Logo ServiceNow" 
+  height="40" 
+  width="40" 
+  src="/imagens/logos/snow.png" 
+  href="https://www.servicenow.com/"/>
+<img alt="Logo Java" 
+  height="40" 
+  width="40" 
+  src="/imagens/logos/java.svg" 
+  href="https://www.java.com/pt-BR/"/>
+<img alt="Logo Linguagem C" 
+  height="30" 
+  width="30" 
+  src="/imagens/logos/c.png"
+  href="https://www.iso.org/standard/74528.html"/>
+<img alt="Logo Figma" 
+  height="30" 
+  width="40" 
+  src="/imagens/logos/figma.svg" 
+  href="https://www.figma.com/"/>
+<img alt="Logo MySQL" 
+  height="30" 
+  width="30" 
+  src="/imagens/logos/mysql.svg" 
+  href="https://www.mysql.com/"/>
+<img alt="Logo PostGreSQL" 
+  height="30" 
+  width="30" 
+  src="/imagens/logos/postgresql.svg" 
+  href="https://www.postgresql.org/"/>
+<img alt="Logo React" 
+  height="30" 
+  width="40" 
+  src="/imagens/logos/react.svg" 
+  href="https://react.dev/"/>
+<img alt="Logo BootStrap" 
+  height="30" 
+  width="30" 
+  src="/imagens/logos/bootstrap.svg"
+  href="https://getbootstrap.com/"/>
+<img alt="Logo HTML" 
+  height="30" 
+  width="30" 
+  src="/imagens/logos/html5.svg" 
+  href="https://www.w3.org/Style/CSS/"/>
+<img alt="Logo CSS" 
+  height="30" 
+  width="30" 
+  src="/imagens/logos/css3.svg" 
+  href="https://www.w3.org/Style/CSS/"/>
+<img alt="Logo JavaScript" 
+  height="30" 
+  width="30" 
+  src="/imagens/logos/javascript.svg" 
+  href="https://javascript.info/document"/>
+
 </div>
 
 <h2>Estatísticas</h2>
@@ -57,6 +105,6 @@
 
 <h2>Contatos</h2>
 
-<a href="https://github.com/brazadrian" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+<a href="https://github.com/brazadrian" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/brazadrian/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:gilmaradrian127@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
